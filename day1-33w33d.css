@@ -1,0 +1,84 @@
+#bg-image {
+    background-image: url(img/mc-img9.jpg);
+    height: 150vh;
+    background-size: cover; 
+    background-position: center;
+    align-content: center;
+}
+
+#bg-text {
+    font-family: 'Roboto', 'Open Sans','Helvetica Neue';
+    color: rgba(231,231,233, 1.0);
+    padding-top: 180px;
+    Padding-left: 60px;  
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:active {
+    text-decoration: none;
+}
+p {
+    padding-top: 8px;
+    color: whitesmoke;
+}
+
+#bg-sub {
+    padding-top: 10px;
+    Padding-left: 25px;
+}
+
+#bg-sub1 {
+    padding-top: 5px;
+    Padding-left: 0px;
+}
+H1 {
+    font-size: 6.5rem;
+}
+.row {
+    background: Black;  
+}
+
+img {
+    margin-right: 1.0em;
+}
+
+#logo-pos { 
+    margin-top: 900px;
+    margin-left: 40px;
+    position: absolute;
+}
+
+#bt-text {
+    color:azure;
+}
+
+.btn {
+  -webkit-border-radius: 17;
+  -moz-border-radius: 17;
+  border-radius: 17px;
+  color: #ffffff;
+  font-size: 16px;
+  background: #9A25AD;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #696969;
+  text-decoration: none;
+}
